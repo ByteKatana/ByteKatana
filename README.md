@@ -8,3 +8,14 @@
   <a href="https://stackshare.io/ByteKatana/bytestack"><img src="https://img.shields.io/badge/Stackshare-blue?style=for-the-badge&logo=stackshare&logoColor=white" alt="HackerRank Badge"/></a>
 </div>
 
+### About Me:
+I'm Software Engineer and Full Stack Web Developer.
+
+⭐ Passionate for innovation and developing top quality product.
+
+
+### My Stats:
+
+![ByteKatana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteKatana&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteKatana&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

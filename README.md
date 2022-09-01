@@ -9,13 +9,15 @@
 </div>
 
 ### About Me:
-I'm Software Engineer and Full Stack Web Developer.
 
-⭐ Passionate for innovation and developing top quality product.
+ ⭐ Software Engineer and Full Stack Web Developer.
+
+⭐ Passionate for innovation and developing high-quality product.
+
+⭐ Enthusiast to consistent self-improvement
 
 
 ### My Stats:
 
-![ByteKatana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteKatana&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteKatana&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

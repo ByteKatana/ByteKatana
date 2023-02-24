@@ -16,9 +16,3 @@
 ⭐ Passionate for innovation and developing high-quality product.
 
 ⭐ Enthusiast to consistent self-improvement
-
-
-### My Stats:
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteKatana&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

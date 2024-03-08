@@ -3,7 +3,7 @@
 
 ### Social Networks:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kaan-a-160454176/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/kaan-a-bytekatana/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.cakeresume.com/bytekatana"><img src="https://img.shields.io/badge/CakeResume-green?style=for-the-badge&logo=cakeresume&logoColor=white" alt="CakeResume Badge"/></a>
   <a href="https://gitlab.com/bytekatana"><img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/></a>
   <a href="https://twitter.com/@bytekatana"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>

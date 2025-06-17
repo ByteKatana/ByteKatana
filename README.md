@@ -1,6 +1,14 @@
 <h2 align="center">Hi there 👋</h2>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=ByteKatana&style=for-the-badge" /></div>
 
+⚡️ **Currently Working on:** 
+
+⭐ [simpl:api](https://github.com/ByteKatana/simpl-api)
+
+⭐ [CodeImgGen](https://github.com/ByteKatana/CodeImgGen) 
+
+⭐ and some private projects
+
 ### Social Networks:
 <div id="badges">
   <a href="https://www.linkedin.com/in/kaan-a-bytekatana/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -13,7 +21,7 @@
 
 ### About Me:
 
- ⭐ Software Engineer and Full Stack Web Developer.
+⭐ Software Engineer and Full Stack Web Developer.
 
 ⭐ Passionate for innovation and developing high-quality products.
 

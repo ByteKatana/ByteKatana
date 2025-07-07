@@ -13,7 +13,7 @@
 
 ### 🙋 About Me:
 
-⭐ Software Engineer and Full Stack Web Developer.
+⭐ Fullstack Software Engineer.
 
 ⭐ Passionate for innovation and developing high-quality products.
 

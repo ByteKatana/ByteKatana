@@ -29,3 +29,8 @@
 
 ⭐ and some private projects
 
+
+### 📝 Latest Articles:
+⭐ [What is Event bubbling and its benefits](https://bytekatana.blog/what-is-event-bubbling-and-its-benefits/)
+
+⭐ [Debounce and Throttle](https://bytekatana.blog/debounce-and-throttle/)
